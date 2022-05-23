@@ -6,4 +6,5 @@ streamlit
 pandas_datareader
 tensorflow
 keras.models
+sklearn
 sklearn.preprocessing
