@@ -1,6 +1,0 @@
-numpy @ file:///C:/ci/numpy_and_numpy_base_1626271900803/work
-pandas @ file:///C:/ci/pandas_1635506685681/work
-matplotlib @ file:///C:/ci/matplotlib-suite_1634667159685/work
-pandas-datareader==0.10.0
-keras==2.8.0
-streamlit==1.5.1
